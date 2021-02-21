@@ -24,6 +24,7 @@ performing analysis onkickstarter data to find trends
             
   #### Data Visualizations
   1)![Theather_Outcomes_Vs_Launch](Theather_outcomes_Vs_Launch)
+  
   2)![Outcomes Bases on Goals](Outcomes_bases_Vs_Goals)
                
    ### Analysis of Outcomes Based on Launch Date
