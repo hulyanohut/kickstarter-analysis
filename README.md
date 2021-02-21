@@ -23,8 +23,7 @@ performing analysis onkickstarter data to find trends
   graphing the data based on the percentage of sucess,failure and cancelation.
             
   #### Data Visualizations
-  1)!(Theather_Outcomes_Vs_Launch)Theater_Outcomes_vs_Launch.png.
-  2)!(Outcomes_vs_Goals)Outcomes_vs_Goals.png 
+  1)![Theather_Outcomes_Vs_Launch](Theater_outcomes_vs_launch.png)
                
    ### Analysis of Outcomes Based on Launch Date
    
