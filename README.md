@@ -40,10 +40,12 @@ performing analysis onkickstarter data to find trends
        Data that the months of May and June both have a greater success rate.
        
    What can you conclude about the Outcomes based on Goals?
-       Outcomes based on Goals balens using line chart of central tendency help us finding the mean and median for each dataset's.
+   
+   Outcomes based on Goals balens using line chart of central tendency help us finding the mean and median for each dataset's.
        
    What are some limitations of this dataset?
-       We need to analyze a variety of company to draw more important undurstanding and figure out how important results.
+   
+   We need to analyze a variety of company to draw more important undurstanding and figure out how important results.
        
   What are some other possible tables and/or graphs that we could create?
    - Column Graph
