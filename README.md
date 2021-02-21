@@ -16,10 +16,10 @@ performing analysis onkickstarter data to find trends
  I am able to prefers analysis by creating two sheets in Kickstarter_Challenge , named "Outcomes Based on Launch Date",
  and Outcomes Based on Goals
   
-    -The first analysis makes using a pivot table to help visualize number of successful,failed and canceled theater campaigns
+  -The first analysis makes using a pivot table to help visualize number of successful,failed and canceled theater campaigns
   month and could be filtered by year as well as by parent category in  to see different types of
  
-    -The second analysis vizualized the Outcomes based on a range of goals of various campaigns and data from dataset  
+  -The second analysis vizualized the Outcomes based on a range of goals of various campaigns and data from dataset  
   graphing the data based on the percentage of sucess,failure and cancelation.
             
   #### Data Visualizations
@@ -33,15 +33,18 @@ performing analysis onkickstarter data to find trends
        
        
    # Result
-       What are two conclusions you can draw about the Outcomes based on Launced
+   What are two conclusions you can draw about the Outcomes based on Launced
        Data that the months of May and June both have a greater success rate. A bar chart wouldn't be able to convey this information in the same manner.
        
        
-       What can you conclude about the Outcomes based on Goals?
+   What can you conclude about the Outcomes based on Goals?
        Outcomes based on Goals balens using line chart of central tendency help us finding the mean and median for each dataset's.
        
-       What are some limitations of this dataset?
+   What are some limitations of this dataset?
        We need to analyze a variety of company to draw more important undurstanding and figure out how important results.
        
-       What are some other possible tables and/or graphs that we could create?
+  What are some other possible tables and/or graphs that we could create?
+   - Column Graph
+   - Line Graph
+   - Area Graph
  
