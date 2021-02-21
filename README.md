@@ -24,8 +24,10 @@ performing analysis onkickstarter data to find trends
             
   #### Data Visualizations
   1)![Theather_Outcomes_Vs_Launch](Theater_outcomes_vs_launch.png.svg)
+  I created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
   
   2)![Outcomes Bases on Goals](Outcomes_based_vs_goal.png.svg)
+  I created a line chart Outcomes Based on Goal to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, and canceled projects on the y-axis.
                
    ### Analysis of Outcomes Based on Launch Date
    
@@ -35,8 +37,7 @@ performing analysis onkickstarter data to find trends
        
    # Result
    What are two conclusions you can draw about the Outcomes based on Launced
-       Data that the months of May and June both have a greater success rate. A bar chart wouldn't be able to convey this information in the same manner.
-       
+       Data that the months of May and June both have a greater success rate.
        
    What can you conclude about the Outcomes based on Goals?
        Outcomes based on Goals balens using line chart of central tendency help us finding the mean and median for each dataset's.
